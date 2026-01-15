@@ -27,3 +27,9 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 
 ## Conclusão
 Este projeto demonstra práticas iniciais de análise de dados e organização de código.
+
+## Principais Insights
+
+- Notebooks têm maior faturamento total.
+- Março apresentou aumento de vendas em comparação a Janeiro.
+
